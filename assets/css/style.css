@@ -1,0 +1,23 @@
+
+.jumbotron {
+	color: white;
+	text-align: center;
+	background-color: #8B4513
+	
+}
+
+/*footer*/
+.footer {
+	padding: 10px 0;
+	text-align: center;
+}
+
+#panela {
+	color: white;
+	background-color: blue;
+}
+
+#panelo {
+	color: white;
+	background-color: blue;
+}
